@@ -8,3 +8,10 @@ Below are my skills
 🔹Javascript
 🔹Scratch
 
+📱How to reach me?
+
+Email : stimulatekay11ew@gmail.com
+LinkedIn : https://www.linkedin.com/in/keamogetswe-kgakatsi-388239267/
+WhatsApp : +27 679 7773 676
+
+
