@@ -3,7 +3,7 @@
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgakatsikeamogetswe&label=Profile%20views&color=0e75b6&style=flat" alt="kgakatsikeamogetswe" /> </p>
-
+<h3 align = "center">About</h3>
 - 🌱 I’m currently learning **Web Developmemt**
 
 - 💬 Ask me about **HTML & CSS**
