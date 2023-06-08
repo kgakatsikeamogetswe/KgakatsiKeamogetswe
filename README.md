@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgakatsikeamogetswe&label=Profile%20views&color=0e75b6&style=flat" alt="kgakatsikeamogetswe" /> </p>
 <h3 align = "center">About</h3>
-<p>I enjoy being behind the screen🧑‍💻, Im a softwaare developer, and I specialize in CSS and HTML. Still learning JavaScript. I have learnt VB.net language when i was in tertiary. I also did Multimedia which could be an advantage as a Software Developer. I am egar to learn📔, self-motiveted and I respect time⌛. I have took part on CISCO, I did intodution in cyber security and introduction in internet of things.</p>
+<p>I enjoy being behind the screen🧑‍💻, Im a softwaare developer, and I specialize in CSS and HTML. Still learning JavaScript. I have learnt VB.net language when i was in tertiary. I also did Multimedia which could be an advantage as a Software Developer. I am egar to learn📔, self-motiveted and I respect time⌛. I have took part in CISCO, I did intodution in cyber security and introduction in internet of things.</p>
 - 🌱 I’m currently learning **Web Developmemt**
 
 - 💬 Ask me about **HTML & CSS**
