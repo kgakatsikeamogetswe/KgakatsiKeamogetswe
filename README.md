@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgakatsikeamogetswe&label=Profile%20views&color=0e75b6&style=flat" alt="kgakatsikeamogetswe" /> </p>
 <details>
-<summary><h3 align = "center">About</h3></summary>
+<summary><h3 align = "center">About Myself</h3></summary>
 <p>I enjoy being behind the screen🧑‍💻. I'm a software developer specializing in CSS and HTML. I'm currently learning JavaScript. I learned the VB.net language during my time in tertiary education. Additionally, I pursued Multimedia, which could provide an advantage in my software development career. I am eager to learn📔📖, self-motivated, and I value time⌛⌚. I have participated in CISCO, where I gained knowledge in cyber security and was introduced to the Internet of Things.</p>
 </details>
 
