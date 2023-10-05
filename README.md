@@ -2,8 +2,11 @@
 <tr>
 
 ### Job Title
-I am a highly motivated and detail-oriented new developer with a passion for coding and problem-solving. I recently completed a rigorous coding bootcamp, where I gained hands-on experience in various programming languages and technologies, including Python, JavaScript, HTML/CSS, and SQL.
+As a software engineer, I am a passionate problem solver and critical thinker, always striving to find elegant solutions to complex challenges. My strong technical skills encompass a wide range of technologies, including JavaScript, React, Next.js, MongoDB, HTML, and CSS. I am dedicated to staying at the forefront of the ever-evolving tech landscape, keeping up with the latest industry trends, and adopting best practices.
 
+I take immense pride in my work, emphasizing clean, efficient, and maintainable code in every project I undertake. Collaboration and effective communication are also key aspects of my skill set, enabling me to work seamlessly with multidisciplinary teams and bring projects to successful fruition.
+
+My unwavering commitment to excellence in coding, attention to detail, and a profound passion for software development drive me to continually deliver exceptional results in every endeavor
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+123 456 7890**
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [example@example.com](mailto:example@example.com)
