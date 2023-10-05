@@ -21,6 +21,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 ## 👾 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-circle&logo=nextjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
@@ -28,12 +29,15 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 
 # Education
 
-### Associate of Science in Web Development
-**ABC Community College, Someplace**  
-*Graduated: May 2020*  
-- Completed comprehensive coursework in HTML, CSS, and JavaScript.
-- Collaborated on a team project to develop a responsive website for a local business.
+### CODESPACE
+**Fullstack developer**  
+*Graduated: May 2023*  
+- Completed NQF 4.
 
+### ORBIT TVET COLLEGE
+**Information Technology and Computer Science**  
+*Graduated: May 2023*  
+- Completed NQF 4.
 
 <h4> Connect with me🤝: <h4>
   </hr>
