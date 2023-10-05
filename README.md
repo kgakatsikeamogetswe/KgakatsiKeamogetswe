@@ -7,7 +7,9 @@ As a Software Engineer, I am a passionate problem solver and critical thinker, a
 I take immense pride in my work, emphasizing clean, efficient, and maintainable code in every project I undertake. Collaboration and effective communication are also key aspects of my skill set, enabling me to work seamlessly with multidisciplinary teams and bring projects to successful fruition.
 
 My unwavering commitment to excellence in coding, attention to detail, and a profound passion for software development drive me to continually deliver exceptional results in every endeavor
-![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+27 67 977 7367**
+![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)  
+
+**+27 67 977 7367**
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [example@example.com](mailto:example@example.com)
 
