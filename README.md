@@ -52,11 +52,8 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
   <a href="https://shorturl.at/cfkO9">
    <img align="left" alt=" Name Surname  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:username@gmail.com">
+  <a href="keamogetswekgakatsi11@gmial.com">
     <img align="left" alt="Name Surname  | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://twitter.com/username">
-    <img align="left" alt="Name Surname | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jessklette)](https://github.com/jessklette/github-profile-trophy)
