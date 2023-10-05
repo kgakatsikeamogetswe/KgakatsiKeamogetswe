@@ -1,35 +1,75 @@
-<h1 align="center">Hi 👋, I'm Keamogetswe Suprise Kgakatsi</h1>
-<h3 align="center">A passionate Software Developer from South Africa</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<table>
+<tr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kgakatsikeamogetswe&label=Profile%20views&color=0e75b6&style=flat" alt="kgakatsikeamogetswe" /> </p>
-<details>
-<summary><h3 align = "center">About Myself</h3></summary>
-<p>I enjoy being behind the screen🧑‍💻. I'm a software developer specializing in CSS and HTML, I am expose to JavaScript. I'm currently learning React and NextJS. I learned the VB.net language during my time in tertiary education. Additionally, I pursued Multimedia, which could provide an advantage in my software development career. I am eager to learn📔📖, self-motivated, and I value time⌛⌚. I have participated in CISCO, where I gained knowledge in cyber security and was introduced to the Internet of Things.</p>
-</details>
+### Job Title
+I am a highly motivated and detail-oriented new developer with a passion for coding and problem-solving. I recently completed a rigorous coding bootcamp, where I gained hands-on experience in various programming languages and technologies, including Python, JavaScript, HTML/CSS, and SQL.
 
-- 🌱 I’m currently learning **`Web Development`**
+![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+123 456 7890**
 
-- 💬 Ask me about **`HTML & CSS`**
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [example@example.com](mailto:example@example.com)
 
-- 📫 How to reach me **`stimulatekay11ew@gmail.com`**
+![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com)
 
-- ⚡ Fun fact **`I think I am funny`**
+</td>
+</tr>
+</table>
 
-#
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/keamogetswe-kgakatsi-388239267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keamogetswe kgakatsi" height="30" width="40" /></a>
-<a href="https://instagram.com/stimulate_kay?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keamogetswe kgakatsi" height="30" width="40" /></a>
-</p>
+## 👾 Technologies
 
-#
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
 
-##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgakatsikeamogetswe&show_icons=true&locale=en&layout=compact" alt="kgakatsikeamogetswe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgakatsikeamogetswe&show_icons=true&locale=en" alt="kgakatsikeamogetswe" /></p>
+# Work Experience 
+## 2023
+### XYZ Software Solutions - Junior Developer (Month Year - Month Year)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgakatsikeamogetswe&" alt="kgakatsikeamogetswe" /></p>
+1. **Developed and Maintained Applications**  
+   - Collaborated with a team of [Number, e.g., "5"] developers to design, develop, and maintain [Type of Application, e.g., "web applications"] using [Programming Language/Technology, e.g., "Python and Django"].
+   - Successfully implemented features and resolved bugs, resulting in a [Specific Achievement, e.g., "20% increase in user engagement"].
+
+2. **API Integration and Optimization**  
+   - Integrated [Number, e.g., "3"] third-party APIs, including [Specific API Names, e.g., "Stripe for payment processing and Google Maps for location services"], enhancing application functionality.
+   - Optimized API calls to improve application performance and reduce loading times by [Percentage, e.g., "15%"].
+
+## 2022
+### Web Development Intern at XYZ Company
+
+- Assisted the development team in designing and implementing responsive web applications using technologies such as HTML, CSS, and JavaScript.
+- Collaborated with UX/UI designers to enhance the user experience and ensure web designs were implemented accurately and efficiently.
+- Conducted regular code reviews and debugging sessions, resulting in a 15% reduction in site load time and a 10% increase in overall site performance.  
+
+- Assisted in designing and developing responsive web pages using HTML, CSS, and JavaScript.
+- Collaborated with a team of five developers to implement new features for the company's main website, resulting in a 15% increase in user engagement.
+- Debugged and optimized existing codebase, improving page load times by 20%.
+
+# Education
+
+### Associate of Science in Web Development
+**ABC Community College, Someplace**  
+*Graduated: May 2020*  
+- Completed comprehensive coursework in HTML, CSS, and JavaScript.
+- Collaborated on a team project to develop a responsive website for a local business.
+
+
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/username/">
+   <img align="left" alt=" Name Surname  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:username@gmail.com">
+    <img align="left" alt="Name Surname  | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://twitter.com/username">
+    <img align="left" alt="Name Surname | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jessklette)](https://github.com/jessklette/github-profile-trophy)
+   <a href="https://github.com/username">
+    <img align="left" alt= "Name Surname | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
+  
