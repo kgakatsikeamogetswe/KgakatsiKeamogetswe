@@ -11,7 +11,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [example@example.com](mailto:example@example.com)
 
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [www.example.com](http://www.example.com)
+![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [https://padlet.com/stimulatekay11ew/my-portfolio-gspts0wmmxnxgikp](http://www.example.com)
 
 </td>
 </tr>
