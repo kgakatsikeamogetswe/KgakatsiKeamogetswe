@@ -53,10 +53,10 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 + Backend powered by  MongoDB
 + User-friendly interface
 + Key features:
-` Spotlight on featured posts
-` Engaging landing page
-` Contact form from message submission
-` secure storage of messages in the database
+- Spotlight on featured posts
+- Engaging landing page
+- Contact form from message submission
+- secure storage of messages in the database
 
 <h4> Connect with me🤝: <h4>
   </hr>
