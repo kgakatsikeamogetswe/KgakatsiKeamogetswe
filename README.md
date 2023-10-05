@@ -35,6 +35,9 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+## 📖🧑‍💻Projects
+
+
 # Education
 
 ### CODESPACE
@@ -57,7 +60,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
   </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jessklette)](https://github.com/jessklette/github-profile-trophy)
-   <a href="https://github.com/username">
+   <a href="https://github.com/kgakatsikeamogetswe">
     <img align="left" alt= "Name Surname | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
