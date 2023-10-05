@@ -10,7 +10,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png) **+27 67 977 7367**
 
-![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [example@example.com](mailto:example@example.com)
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [keae](mailto:example@example.com)
 
 ![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [https://padlet.com/stimulatekay11ew/my-portfolio-gspts0wmmxnxgikp](http://www.example.com)
 
