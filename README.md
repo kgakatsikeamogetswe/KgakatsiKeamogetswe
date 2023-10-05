@@ -35,9 +35,6 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## 📖🧑‍💻Projects
-
-
 # Education
 
 ### CODESPACE
@@ -49,6 +46,17 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 **Information Technology and Computer Science**  
 *Graduated: May 2023*  
 - Completed NQF 4.
+
+## 📖🧑‍💻Projects
+**Blog Web App<a href="https://shorturl.at/cfkO9">**
++Frontend built with React and Next.js
++Backend powered by  MongoDB
++User-friendly interface
++Key features:
+`Spotlight on featured posts
+`Engaging landing page
+`Contact form from message submission
+`secure storage of messages in the database
 
 <h4> Connect with me🤝: <h4>
   </hr>
