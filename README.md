@@ -21,7 +21,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 ## 👾 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-circle&logo=nextjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
