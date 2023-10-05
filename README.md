@@ -12,7 +12,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [keamogetswekgakatsi11@gmail.com](mailto:example@example.com)
 
-![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [https://shorturl.at/drtU2](http://www.example.com)
+![Website Icon](https://img.icons8.com/external-anggara-basic-outline-anggara-putra/20/000000/external-website-ui-basic-anggara-basic-outline-anggara-putra.png)   [https://shorturl.at/drtU2](https://shorturl.at/drtU2)
 
 </td>
 </tr>
