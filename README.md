@@ -18,7 +18,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 </tr>
 </table>
 
-## 👾 Technologies
+# 👾 Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,7 +47,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 *Graduated: May 2023*  
 - Completed NQF 4.
 
-## 📖🧑‍💻Projects
+# 📖🧑‍💻Projects
   
 <a href="https://keamogetswe-oid3bpwie-keamogetswe.vercel.app/">**Blog Web App**</a>
 + Frontend built with React and Next.js
