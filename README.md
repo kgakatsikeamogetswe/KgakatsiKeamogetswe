@@ -48,7 +48,8 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 - Completed NQF 4.
 
 ## 📖🧑‍💻Projects
-**Blog Web App<a href="https://keamogetswe-oid3bpwie-keamogetswe.vercel.app/"></a>**
+  
+<a href="https://keamogetswe-oid3bpwie-keamogetswe.vercel.app/">**Blog Web App**</a>
 + Frontend built with React and Next.js
 + Backend powered by  MongoDB
 + User-friendly interface
