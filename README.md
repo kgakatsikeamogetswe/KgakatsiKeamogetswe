@@ -38,9 +38,9 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 # Education
 
 ### CODESPACE
-**Fullstack developer**  
-*Graduated: May 2023*  
-- Completed NQF 4.
+**Fullstack Software Engineer**  
+*still studying*  
+- certificate in Software Engineer.
 
 ### ORBIT TVET COLLEGE
 **Information Technology and Computer Science**  
@@ -49,7 +49,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/username/">
+  <a href="https://shorturl.at/cfkO9">
    <img align="left" alt=" Name Surname  | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:username@gmail.com">
