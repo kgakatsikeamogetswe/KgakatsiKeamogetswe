@@ -37,7 +37,7 @@ My unwavering commitment to excellence in coding, attention to detail, and a pro
 
 ### CODESPACE
 **Fullstack Software Engineer**  
-*still studying*  
+*Graduated: January 2024*  
 - certificate in Software Engineer.
 
 ### ORBIT TVET COLLEGE
